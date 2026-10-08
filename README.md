@@ -2,7 +2,7 @@
 
 # 🧠 Coding Solutions
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-8-blue?style=for-the-badge)
+![Total Solved](https://img.shields.io/badge/Total_Solved-1-blue?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Streak-1_days-orange?style=for-the-badge)
 ![Last Synced](https://img.shields.io/badge/Last_Synced-10--7--2026-green?style=for-the-badge)
 
@@ -16,16 +16,16 @@
 
 | Difficulty | Solved |
 |:---:|:---:|
-| 🟢 Easy | **7** |
+| 🟢 Easy | **0** |
 | 🟡 Medium | **1** |
 | 🔴 Hard | **0** |
-| **Total** | **8** |
+| **Total** | **1** |
 
 ## 🛠️ Languages
 
 | Language | Solutions |
 |:---:|:---:|
-| C | **8** |
+| C | **1** |
 
 ## 📂 Repository Structure
 
@@ -44,6 +44,6 @@
 
 <div align="center">
 
-*Last updated: 2026-10-07* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
+*Last updated: 2026-10-08* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
